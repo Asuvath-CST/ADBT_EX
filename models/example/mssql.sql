@@ -10,6 +10,6 @@ bqviewms as (
         BNAME,
         ECOUNT
      from bqdbt
-     ),
+     )
      
 select * from bqviewms
